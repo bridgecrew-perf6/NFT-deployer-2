@@ -1,5 +1,5 @@
 # NFT Deployer and Minter
-## Created a NFT deployer and minter inside the Ethereum Blockchain 
+Created a NFT deployer and minter inside the Ethereum Blockchain 
 
 ## Stack:
   - Solidity (for the smart contract)
